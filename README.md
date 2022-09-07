@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **faivel555@gmail.com**
 
-- ⚡ Fun fact **Found a new bug and can't solve it? The solution is in my dreams**
+- ⚡ Fun fact about me: **Found a new bug and can't solve it? The solution is in my dreams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
