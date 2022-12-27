@@ -2,13 +2,12 @@
 <h3 align="center">A passionate Computer Science student from Israel</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **Netflix+, an upgraded Netflix web app**
 
-- 🌱 I’m currently learning **NodeJS, Express , React, Tailwind CSS,**
+- 🌱 I’m currently learning **C++, C, Linux Kernel, Express**
 
 - 📫 How to reach me **faivel555@gmail.com**
 
-- ⚡ Fun fact about me: **Found a new bug and can't solve it? The solution is in my dreams**
+- ⚡ Fun fact about me: **Enjoy finding bugs in my dreams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
